@@ -4,7 +4,7 @@ for i in range(0, 10):
     print("CPC")
 
 while 1 > 2 :
-    print("Reason to live")
+    print("Reasons to live")
 else:
-    print("No reason to liveS")
+    print("No reasons to liveS")
 print("Git ---Gittt")
